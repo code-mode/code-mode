@@ -1,5 +1,1 @@
-C++
-Python
-JavaScript
-Ruby
-WebAssembly
+wasm n00b / dont mind me - just learning
